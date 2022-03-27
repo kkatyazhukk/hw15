@@ -1,0 +1,25 @@
+{
+  "name": "hw15-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkatyazhukk/hw15-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkatyazhukk/hw15-/issues"
+  },
+  "homepage": "https://github.com/kkatyazhukk/hw15-#readme",
+  "dependencies": {
+    "jasmine": "^4.0.2"
+  },
+  "devDependencies": {
+    "jasmine-spec-reporter": "^7.0.0"
+  }
+}
